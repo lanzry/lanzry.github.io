@@ -1,3 +1,6 @@
 [submodule "next"]
 	path = next
 	url = E:/workspace/Myself/hexo-new/themes/next
+[submodule "themes/next"]
+	path = themes/next
+	url = https://github.com/iissnan/hexo-theme-next
