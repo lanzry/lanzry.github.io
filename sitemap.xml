@@ -3,7 +3,12 @@
 
     <sitemap>
         <loc>http://lanzry.github.io/post-sitemap.xml</loc>
-        <lastmod>2017-04-02T07:32:49.007Z</lastmod>
+        <lastmod>2017-04-02T07:58:52.590Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>http://lanzry.github.io/tag-sitemap.xml</loc>
+        <lastmod>2017-04-02T07:58:52.590Z</lastmod>
     </sitemap>
 
 </sitemapindex>
